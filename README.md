@@ -26,10 +26,9 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: *[your email here]*  
-- 📱 Phone: +91 7463859379 *(optional, not recommended for public README)*  
-- 🔗 [LinkedIn](https://www.linkedin.com/) *(insert your link)*  
-- 🌐 [Portfolio](https://yourportfolio.com) *(if you have one)*  
+- 📧 Email: *[ayushmanr12@gmail.com]*  
+- 📱 Phone: +91 7463859379 *  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ayushman-k-265301131?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)    
 
 ---
 
